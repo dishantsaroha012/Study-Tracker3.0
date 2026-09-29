@@ -1,0 +1,9 @@
+{
+  "name": "StudyTrack",
+  "short_name": "StudyTrack",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071a33",
+  "theme_color": "#071a33",
+  "description": "Study tracking and planning app"
+}
